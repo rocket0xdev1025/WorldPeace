@@ -8779,7 +8779,7 @@ function Yi({
     const t = [{
         name: "telegram",
         icon: c.jsx(eh, {}),
-        url: "https://t.me/WPC_fun"
+        url: "https://t.me/CZWorldPeace"
     }, {
         name: "twitter",
         icon: c.jsx(th, {}),
@@ -9660,7 +9660,7 @@ function Nh() {
     }, {
         icon: Ch,
         title: "3. Go To Jupiter",
-        des: "After you get your Solana in your wallet, you can head to jup.ag (the best DEX in Solana)"
+        des: "After you get your BNB in your wallet, you can head to PancakeSwap (the leading DEX on BNB Chain)."
     }, {
         icon: Ps,
         title: "4. Buy $barsik",
