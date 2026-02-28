@@ -8779,7 +8779,7 @@ function Yi({
     const t = [{
         name: "telegram",
         icon: c.jsx(eh, {}),
-        url: "https://t.me/CZWorldPeace"
+        url: "https://t.me/worldpeacebnb_entry"
     }, {
         name: "twitter",
         icon: c.jsx(th, {}),
